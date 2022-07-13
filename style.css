@@ -1,4 +1,16 @@
 body{
+   
+    background-image: linear-gradient(to bottom right,rgb(197, 93, 111),rgb(120, 190, 199));
+}
+#footer{
+    position: fixed;
     text-align: center;
-    background-color: lineargradient(0);
+    bottom: 0;
+    width: 100%;
+}
+img{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+img:hover{
+    border-radius: 140px;
 }
